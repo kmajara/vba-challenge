@@ -20,5 +20,5 @@ The project consisted of Creating a script that loops through all the stocks for
 
 Additional functionality to return stock ticker with the Greatest percentage increase, greatest percentage decrease and Greatest total 
 volume was required. 
-The scrip was also updated to be able to run on all active worksheets within the workbook and conditional formatting was added to formatt the 
+The script was also updated to be able to run on all active worksheets within the workbook and conditional formatting was added to formatt the 
 positive and negative numbers differentl in the yearly change column. 
